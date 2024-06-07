@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D candidate under the supervision of Dr. Yanjie Su at Peking University (PKU). My primary interests focus on how children understand probability and how they acquire possibility concepts. My previous and ongoing work indludes three interrelated parts, children's understanding of probability, numerical cognition, and animal cognition.
+I am a Ph.D candidate under the supervision of Dr. Yanjie Su at Peking University (PKU). My primary interests focus on how children understand probability and how they acquire possibility concepts. My previous and ongoing work indludes three interrelated parts, children's understanding of probability, numerical cognition. To address the mentioned issue, I utilize behavioral experiments, computational models, and electroencephalogram (EEG) to explore the cognitive mechanisms of children's processing of probabilistic information. Besides, I am also interested in animal cognition, which could reveal the origins of human intelligence.
 
 A data-driven personal website
 ======
