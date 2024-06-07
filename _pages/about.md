@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D candidate majoring in developmental and comparative psychology at Peking University. During my Ph.D, I am working on children’s cognitive development, specifically about numerical cognition and probabilistic judgements. I am interested in how children understand probability and how they acquire possibility concepts.
+I am a Ph.D candidate majoring in developmental and comparative psychology at Peking University. My primary interests focus on how children understand probability and how they acquire possibility concepts.
 
 A data-driven personal website
 ======
